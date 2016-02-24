@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("ez a github");
             Console.WriteLine("Tankeradam here!");
+            Console.WriteLine("V_Andrea - Don't buy boilers!");
         }
     }
 }
