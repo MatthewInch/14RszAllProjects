@@ -15,6 +15,7 @@ namespace ConsoleApplication1
             Console.WriteLine("Press the power button to continue!");
             Console.WriteLine("V_Andrea - Don't buy boilers!");
             Console.WriteLine("asdasd Olivér asd");
+            Console.WriteLine("Ha nem adózol elvvisz Miki bácsi oszt megbüntet");
         }
     }
 }
