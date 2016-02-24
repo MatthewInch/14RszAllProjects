@@ -13,6 +13,8 @@ namespace ConsoleApplication1
             Console.WriteLine("ez a github");
             Console.WriteLine("Tankeradam here!");
             Console.WriteLine("Press the power button to continue!");
+            Console.WriteLine("V_Andrea - Don't buy boilers!");
+
         }
     }
 }
