@@ -11,7 +11,8 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("ez a github");
-            Console.WriteLine("Molnar Mate");
+            Console.WriteLine("Tankeradam here!");
+            Console.WriteLine("Mate");
         }
     }
 }
